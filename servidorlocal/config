@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "servidorlocal"]
+	url = C:/Users/Dell/Documents/z_Oracle One Curso Free/Cursos/Git y GitHub/Edwin/servidorlocal/
+	fetch = +refs/heads/*:refs/remotes/servidorlocal/*
